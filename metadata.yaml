@@ -1,0 +1,30 @@
+_repo: The-Silver-Ring-Mystery_53448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Helen
+    alias: Weinstock, Helen
+    birthdate: 1910
+    deathdate: 1986
+    gutenberg_agent_id: '47376'
+    url: http://www.gutenberg.org/2009/agents/47376
+description: ''
+gutenberg_issued: '2016-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Vicki Barr Flight Stewardess Series [13]
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Flight attendants -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Barr, Vicki (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- GITenberg
+title: The Silver Ring Mystery
+url: http://www.gutenberg.org/ebooks/53448
